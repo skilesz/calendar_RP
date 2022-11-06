@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+        "name": "Universe 9 - Calendar Behaviors",
+        "description": "This module will provide Universe 9 with a calendar system.",
+		"uuid": "29ea7923-65ca-4c17-ae21-e2aa234f5689",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 210]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "6194eb9f-d7f3-4b2b-88e7-d4b26a79f52f",
+			"version": [1, 0, 0]
+		}
+	]
+}
