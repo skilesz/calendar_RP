@@ -1,2 +1,2 @@
 # calendar_RP
-A working date system for Universe 9!
+A date system for Universe 9!
